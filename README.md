@@ -1,2 +1,3 @@
-# belajar-github
-belajar github
+nama : idham khalid
+jurusan : tkj
+hobi : bola
